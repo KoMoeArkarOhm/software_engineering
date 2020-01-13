@@ -7,5 +7,5 @@ And it include a lot of things that won't include in the book as i added my own 
 IF you want to read the original english version there is pdf 
 (https://github.com/KoMoeArkarOhm/pdf_resources_for_everyone/blob/master/Sommerville%20-%20Software%20Engineering%2010th%20GLOBAL%20Edition.zip)
 
-# This Project for everyone in myanmar who might want to read Software engineering in myanmar language and to have a reference.
+# This Project is for everyone in myanmar who might want to read Software engineering in myanmar language and to have a reference.
 # especially for Students and enthusiasm all over myanmar.
