@@ -2,7 +2,7 @@
    ### Contents
 1.  အပိုင်း (၁)
 
-2.  [အပိုင်း (၂)]()
+2.  [အပိုင်း (၂)](https://github.com/KoMoeArkarOhm/software_engineering/blob/master/PART%202%20-%20System%20Dependability%20and%20Security/Chapter_14_Resilience_engineering/Resilient_systems_design_part_2.md)
 
 3.  [အပိုင်း (၃)]()
 ## အပိုင်း (၁)
@@ -39,4 +39,4 @@ response မပြန်တော့တာကို သိဖို့ [watchdog
    system functionတွေ failure ဖြစ်တာဖြစ်ဖြစ်, interruptionဖြစ်သွားတဲ့အခါ reinstatement ရစေဖိုအတွက် system database နဲ့ အခုကလို hardware token ၏ softwareကိုပဲ maintain လုပ်ရပါလိမ်မယ်။
  
  
-  ## [အပိုင်း (၂) သို့]()
+  ## [အပိုင်း (၂) သို့](https://github.com/KoMoeArkarOhm/software_engineering/blob/master/PART%202%20-%20System%20Dependability%20and%20Security/Chapter_14_Resilience_engineering/Resilient_systems_design_part_2.md)
