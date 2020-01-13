@@ -7,7 +7,9 @@
 
 3.  [အပိုင်း (၃)](https://github.com/KoMoeArkarOhm/software_engineering/blob/master/PART%202%20-%20System%20Dependability%20and%20Security/Chapter_14_Resilience_engineering/Cybersecurity_part_3.md)
 
-## အပိုင်း (၁)
+
+
+# အပိုင်း (၁)
 
 
 ကျွန်တော်တို့ ကွန်ရက်ဖြစ်နေတဲ့ အခြေခံအဆောက်အဉီး နဲ့ အစိုးရ, စီးပွားရေး နဲ့ တစ်ကိုယ်ရည်သုံး ကွန်ပျုတာ systems များ ကို security ကို maintain လုပ်ရခြင်းသည် ကျွန်တော်တို့ လူအဖွဲအစည်း ယှဉ်ဆိုင်နေရသော သိသာထင်ရှားတဲ့ပြဿနာတွေထည်းက တစ်ခုပဲဖြစ်ပါတယ်။
@@ -30,3 +32,6 @@ cypersecurity failures  တွေမှာ:
 
 cypersecurity သည် အဖွဲအစည်းတစ်ခု၏ IT ပိုင်ဆိုင်မူများဖြစ်တဲ့ network ကနေ application systems အထိ အကုန်လုံးနဲ့ သက်ဆိုင်ပါတယ်။
 ဒီလိုပိုင်ဆိုင်မူ အများစု သည် ပြင်ပက ဝယ်သုံး service ဝယ်တာများလို့ companies အများစုဟာ operation အသေးစိတ်ကို မေးကြည်တဲ့အခါ နားမလည်ကြတာကို တွေရပါတယ်။
+
+ ## [အပိုင်း (၂) သို့](https://github.com/KoMoeArkarOhm/software_engineering/blob/master/PART%202%20-%20System%20Dependability%20and%20Security/Chapter_14_Resilience_engineering/Cybersecurity_part_2.md)
+                                                                                                               
