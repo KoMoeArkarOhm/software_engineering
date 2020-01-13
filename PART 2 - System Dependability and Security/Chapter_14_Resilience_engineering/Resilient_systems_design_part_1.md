@@ -1,5 +1,10 @@
 # Resilient systems design
+   ### Contents
+1.  အပိုင်း (၁)
 
+2.  [အပိုင်း (၂)]()
+
+3.  [အပိုင်း (၃)]()
 ## အပိုင်း (၁)
 
 resilient systems တွေသည် ဆိုက်ဘာတိုက်ခိုက်မူ, software failures လိုမျိုး ပျက်စီးကြောင်း incidents တွေမှ ခံခုတန်လှန် နိင်,  ပြန်လည် ကောင်းမွန်နိင်ပါတယ်။
@@ -33,3 +38,5 @@ response မပြန်တော့တာကို သိဖို့ [watchdog
    System fail ခဲ့ရင် မရှိမဖြစ် services တွေ maintian ဖြစ်စေဖို့ နောက်ထပ် center တစ်ခုကို calls တွေကို လွဲပေးပါလိမ့်မယ်။
    system functionတွေ failure ဖြစ်တာဖြစ်ဖြစ်, interruptionဖြစ်သွားတဲ့အခါ reinstatement ရစေဖိုအတွက် system database နဲ့ အခုကလို hardware token ၏ softwareကိုပဲ maintain လုပ်ရပါလိမ်မယ်။
  
+ 
+  ## [အပိုင်း (၂) သို့]()
