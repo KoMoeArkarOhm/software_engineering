@@ -1,9 +1,9 @@
 # Cybersecurity
    
    ### Contents
-1.  Cybersecurity
-2.  Sociotechnical resilience
-3.  Resilient systems design
+1.  အပိုင်း (၁)
+2.  အပိုင်း (၂)
+3.  အပိုင်း (၃)
 
 ## အပိုင်း (၁)
 
