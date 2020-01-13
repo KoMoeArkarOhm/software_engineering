@@ -23,7 +23,7 @@ System တစ်ခု ၏ အဓိကရည်ရွယ်ချက် သည�
      - Critical services - calls လက်ခံ, လူနာတင်ကားပို့။
      - other services - call log, လူနာတင်ကား tracking .
 
-- ၂. reinstatement, recovery, resistance, ပြဿနာကို သိရှိ ကွဲပြားစေဖို့ စသည်ဖြင့် ဒီလိုအလုပ်တွေကို ကူညီပေးသော system components များ ဒီဇိုင်းဆွဲခြင်း
+- ၂. reinstatement, recovery, resistance, ပြဿနာကို (သိရှိ ကွဲပြားစေဖို့)(recognition) စသည်ဖြင့် ဒီလိုအလုပ်တွေကို ကူညီပေးသော system components များ ဒီဇိုင်းဆွဲခြင်း
 
      ဉပမာ လူနာတင်ယဉ်ခေါ sytem  တစ်ခုမှာ ကျွန်တော်တို့က လူနာတင်ယဉ် လာဆိုပြိး button နိပ်ခေါလိုက်တယ်။
 response တစ်ခုခုပြန်ရမယ်။
