@@ -1,4 +1,12 @@
 # Cybersecurity
+   
+   ### Contents
+1.  အပိုင်း (၁)
+
+2.  [အပိုင်း (၂)](https://github.com/KoMoeArkarOhm/software_engineering/blob/master/PART%202%20-%20System%20Dependability%20and%20Security/Chapter_14_Resilience_engineering/Cybersecurity_part_2.md)
+
+3.  [အပိုင်း (၃)](https://github.com/KoMoeArkarOhm/software_engineering/blob/master/PART%202%20-%20System%20Dependability%20and%20Security/Chapter_14_Resilience_engineering/Cybersecurity_part_3.md)
+
 
 ## အပိုင်း (၂)
 
@@ -16,3 +24,5 @@
 အောင်မြင်တဲ့ ဆိုက်ဘာတိုက်ခိုက်မူ ၁ ခု ကြောင့် စီးပွားရေးလုပ်ငန်းများ အရမ်းဆိုးဆိုးဝါး ခံစားစေရနိင်တဲ့အတွက် တိုက်ခိုက်ခံရရင်လည်း အထိအခိုက် အဆုံးအရုံးနည်းအောင် ထိခိုက် ဆုံးရုံးမူ ဆက်လက်မပြန်ပွားအောင် ဆောင်ရွက်ဖိုသည်  စီးပွားရေးလုပ်ငန်းများအတွက် မလုပ်မဖြစ်အရေးကြီးပါတယ်။
 အဖွဲအစည်းအဆင့် , system အဆင့် မှာ ထိထိရောက်ရောက် resillience engnieering ကို ကျင့်သုံးရင်ဖြင့်
 တိုက်ခိုက်မူတွေကို တွန်းလှန်နိင်ပြီး ဆုံးရူံးမူကို အရှိန်ရပ်တန့်စေပြီး ကိုယ်လုပ်ငန်းများကို လျင်မြန်စွာ ပြန်လည်လည်ပတ် နိင်စေမှာပါဖြစ်ပါတယ် ခင်ဗျာ။
+
+## [အပိုင်း (၃) သို့](https://github.com/KoMoeArkarOhm/software_engineering/blob/master/PART%202%20-%20System%20Dependability%20and%20Security/Chapter_14_Resilience_engineering/Cybersecurity_part_3.md)
