@@ -6,5 +6,5 @@
 
 3.  အပိုင်း (၃)
 ## အပိုင်း (၃)
-![Stages in survivability analysis]()
+![Resilience engineering](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/figure_14_9.PNG)
   ## [အပိုင်း (၄) သို့]()
